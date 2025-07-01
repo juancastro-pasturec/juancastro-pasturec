@@ -3,7 +3,7 @@
 **Ingeniero Agrónomo | Consultor en Ganadería Sostenible y Regenerativa**  
 📍 Ecuador | 🌱 Pasturas | 🐄 Sistemas Lecheros | 📊 Datos & IA Rural
 
-Apasionado por transformar la ganadería altoandina mediante el manejo sostenible de pasturas, el análisis técnico-productivo y el desarrollo de herramientas digitales adaptadas al campo. Mi enfoque combina ciencia, tecnología y experiencia territorial para generar soluciones que mejoren la sostenibilidad y rentabilidad de los sistemas ganaderos.
+Apasionado por transformar la ganadería mediante el manejo sostenible de pasturas, el análisis técnico-productivo y el desarrollo de herramientas digitales adaptadas al campo. Mi enfoque combina ciencia, tecnología y experiencia territorial para generar soluciones que mejoren la sostenibilidad y rentabilidad de los sistemas ganaderos.
 
 ## 🚀 Proyectos e intereses
 

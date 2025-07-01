@@ -1,4 +1,4 @@
-# 👨‍🌾 Hola, soy Juan Castro
+# Hola, soy Juan Castro
 
 **Ingeniero Agrónomo | Consultor en Ganadería Sostenible y Regenerativa**  
 📍 Ecuador | 🌱 Pasturas | 🐄 Sistemas Lecheros | 📊 Datos & IA Rural
